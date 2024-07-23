@@ -69,7 +69,7 @@
     "billing": [
       {
         "action": "read",
-        "type": "finance3"
+        "type": "finance4"
       },
       {
         "action": "update",
