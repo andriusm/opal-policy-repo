@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "delete_user": {
+      "attributes": [],
+      "resources": [
+        "user_deletion"
+      ]
+    },
+    "show_icon": {
+      "attributes": [],
+      "resources": [
+        "moderator_icon"
+      ]
+    },
+    "marketing": {
+      "attributes": [],
+      "resources": [
+        "photo_marketing"
+      ]
+    }
+  }
+}
