@@ -17,6 +17,12 @@
       "resources": [
         "photo_marketing"
       ]
+    },
+    "marketing2": {
+      "attributes": [],
+      "resources": [
+        "other_marketing"
+      ]
     }
   }
 }
